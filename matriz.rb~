@@ -4,7 +4,7 @@
 require 'matrix'
  
 
-puts "Practica 4 - Lenguajes y Paradigmas de Programacion\n"
+puts "Practica 3\n"
 puts "Suma y producto de matrices\n\n"
 
 puts "Tamanio de matrices: "
