@@ -3,8 +3,10 @@
 
 require 'matrix'
  
+
 #Práctica 4
-puts "Pract\n"
+puts "Practica 4 - Operaciones con matrices cuadradas\n"
+
 puts "Suma y producto de matrices\n\n"
 
 puts "Tamanio de matrices: "

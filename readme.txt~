@@ -1,8 +1,3 @@
-Grupo: Juan Francisco Chávez González
-       Rafael Abadía Reyes
-
-
-
 alu4376@cc122:~/LPP/prct04$ git merge pruebas
 Auto-merging matriz.rb~
 CONFLICT (content): Merge conflict in matriz.rb~
